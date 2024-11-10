@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="fifo_delay_cx" Register="146" Alu="42" Lut="136" Bsram="16" T_Register="146(146)" T_Alu="42(42)" T_Lut="136(136)" T_Bsram="16(16)"/>
